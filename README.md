@@ -107,7 +107,8 @@ DVE Waveform Verification
 
 
 
-<img width="1916" height="1017" alt="Screenshot 2026-10-14 153540" src="https://github.com/user-attachments/assets/078c2c72-96d7-42f9-bb29-cbc0687fad8a" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-16 111425" src="https://github.com/user-attachments/assets/12ef0661-ed35-4b2d-9b24-c04aca4fff52" />
+
 
 In DVE:
 Open the testbench hierarchy.
